@@ -15,9 +15,9 @@
  */
 
 variable "project_id" {
-  description = "The project ID to host the network in"
+  description = "sada-jon-lawrence"
 }
 
 variable "network_name" {
-  description = "The name of the VPC network being created"
+  description = "test-terraform-created-network"
 }
